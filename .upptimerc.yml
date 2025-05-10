@@ -3,6 +3,13 @@ owner: yarik2720 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: Noise FM FR Server
+    url: noisefm.ru
+    check: "tcp-ping"
+  - name: Noise FM FR Server IPv6
+    url: noisefm.ru
+    check: "tcp-ping"
+    ipv6: true
   - name: Noise FM
     url: https://noisefm.ru
   - name: Streams
@@ -15,6 +22,13 @@ sites:
     url: noisefm.ru
     port: 27019
     check: "tcp-ping"
+  - name: SAS-Media SE Server
+    url: ev1.sas-media.ru
+    check: "tcp-ping"
+  - name: Noise FM SE Server IPv6
+    url: ev1.sas-media.ru
+    check: "tcp-ping"
+    ipv6: true
   - name: Torrserver
     url: ev1.sas-media.ru
     port: 8090
