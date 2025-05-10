@@ -5,9 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: Noise FM FR Server
     url: noisefm.ru
+    port: 443
     check: "tcp-ping"
   - name: Noise FM FR Server IPv6
     url: noisefm.ru
+    port: 443
     check: "tcp-ping"
     ipv6: true
   - name: Noise FM
@@ -24,9 +26,11 @@ sites:
     check: "tcp-ping"
   - name: SAS-Media SE Server
     url: ev1.sas-media.ru
+    port: 443
     check: "tcp-ping"
-  - name: Noise FM SE Server IPv6
+  - name: SAS-Media SE Server IPv6
     url: ev1.sas-media.ru
+    port: 443
     check: "tcp-ping"
     ipv6: true
   - name: Torrserver
