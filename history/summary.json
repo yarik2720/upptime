@@ -134,19 +134,19 @@
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jacred",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
-    "time": 123,
-    "timeDay": 109,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 125,
+    "timeDay": 126,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-05-13": 55
+      "2025-05-13": 65
     }
   }
 ]
