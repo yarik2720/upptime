@@ -94,19 +94,19 @@
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sas-media-se-server",
-    "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
-    "time": 124,
-    "timeDay": 109,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 131,
+    "timeDay": 140,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-05-13": 57
+      "2025-05-13": 66
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torrserver",
-    "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
-    "time": 123,
-    "timeDay": 109,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
+    "time": 127,
+    "timeDay": 139,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-05-13": 56
+      "2025-05-13": 65
     }
   },
   {
