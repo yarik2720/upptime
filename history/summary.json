@@ -94,45 +94,49 @@
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sas-media-se-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 124,
     "timeDay": 109,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 3
+    }
   },
   {
     "name": "Torrserver",
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torrserver",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 123,
     "timeDay": 109,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 1
+    }
   },
   {
     "name": "Jacred",
     "url": "ev1.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jacred",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +145,8 @@
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   }
 ]
