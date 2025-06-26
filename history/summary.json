@@ -40,19 +40,19 @@
     "url": "https://play.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/play.sas-media.ru.ico",
     "slug": "streams",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 0,
-    "timeWeek": 1740,
-    "timeMonth": 982,
-    "timeYear": 774,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 791,
+    "timeDay": 1735,
+    "timeWeek": 1739,
+    "timeMonth": 1006,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2025-06-26": 0
+      "2025-06-26": 29
     }
   },
   {
