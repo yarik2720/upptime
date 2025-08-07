@@ -40,9 +40,9 @@
     "url": "https://play.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/play.sas-media.ru.ico",
     "slug": "streams",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -52,6 +52,7 @@
     "timeMonth": 713,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-07-17": 21,
       "2025-06-26": 29
     }
