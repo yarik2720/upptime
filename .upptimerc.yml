@@ -24,12 +24,12 @@ sites:
     port: 443
     check: "tcp-ping"
   - name: Torrserver
-    url: ev1.sas-media.ru
-    port: 8090
+    url: torrserver.ev1.sas-media.ru
+    port: 80
     check: "tcp-ping"
-  - name: Jacred
-    url: ev1.sas-media.ru
-    port: 9117
+  - name: Jackett
+    url: jackett.ev1.sas-media.ru
+    port: 80
     check: "tcp-ping"
 
 status-website:
