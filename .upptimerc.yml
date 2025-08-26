@@ -20,7 +20,7 @@ sites:
     port: 27019
     check: "tcp-ping"
   - name: SAS-Media SE Server
-    url: ev1.sas-media.ru
+    url: as2.sas-media.ru
     port: 443
     check: "tcp-ping"
   - name: Torrserver
