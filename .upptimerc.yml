@@ -20,6 +20,10 @@ sites:
     port: 27019
     check: "tcp-ping"
   - name: SAS-Media SE Server
+    url: se.sas-media.ru
+    port: 443
+    check: "tcp-ping"
+  - name: SAS-Media RU Server
     url: as2.sas-media.ru
     port: 443
     check: "tcp-ping"
