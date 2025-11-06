@@ -115,11 +115,11 @@
     "url": "se.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sas-media-se-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 149,
     "timeDay": 387,
@@ -127,7 +127,7 @@
     "timeMonth": 206,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-11-06": 0,
+      "2025-11-06": 24,
       "2025-05-13": 66
     }
   },
