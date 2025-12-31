@@ -12,11 +12,11 @@ sites:
   - name: Streams
     url: https://play.sas-media.ru
   - name: Friendly Crowbar Synergy
-    url: noisefm.ru
+    url: fc.noisefm.ru
     port: 27016
     check: "tcp-ping"
   - name: Friendly Crowbar Black Mesa
-    url: noisefm.ru
+    url: fc.noisefm.ru
     port: 27019
     check: "tcp-ping"
   - name: SAS-Media SE Server
