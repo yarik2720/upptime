@@ -22,21 +22,22 @@
     "url": "https://noisefm.ru",
     "icon": "https://icons.duckduckgo.com/ip3/noisefm.ru.ico",
     "slug": "noise-fm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 941,
-    "timeDay": 849,
-    "timeWeek": 1188,
-    "timeMonth": 1112,
-    "timeYear": 999,
+    "time": 961,
+    "timeDay": 5653,
+    "timeWeek": 2346,
+    "timeMonth": 1404,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2026-01-14": 66,
       "2026-03-18": 77,
-      "2026-05-02": 99
+      "2026-05-02": 99,
+      "2026-08-15": 1
     }
   },
   {
@@ -44,17 +45,17 @@
     "url": "https://play.sas-media.ru",
     "icon": "https://icons.duckduckgo.com/ip3/play.sas-media.ru.ico",
     "slug": "streams",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 805,
-    "timeDay": 770,
-    "timeWeek": 980,
-    "timeMonth": 833,
-    "timeYear": 808,
+    "time": 814,
+    "timeDay": 3143,
+    "timeWeek": 1547,
+    "timeMonth": 979,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-08-22": 26,
       "2025-08-24": 40,
@@ -68,7 +69,8 @@
       "2025-11-25": 168,
       "2025-11-24": 4,
       "2025-12-06": 22,
-      "2026-05-02": 99
+      "2026-05-02": 99,
+      "2026-08-15": 0
     }
   },
   {
